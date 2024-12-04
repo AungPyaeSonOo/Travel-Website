@@ -25,7 +25,7 @@ Welcome to the **Travel Website** project! This is a fully responsive website de
 
 ## 🏞️ Preview  
 
-![Travel Website Screenshot](https://via.placeholder.com/800x400)  
+![Travel Website Screenshot](https://http://127.0.0.1:5500/Travel%20Website/Travel.html)  
 *(Replace with your website's preview image or a demo link.)*  
 
 ---
@@ -38,7 +38,7 @@ Welcome to the **Travel Website** project! This is a fully responsive website de
 
 2. Navigate to the project folder:
      
-bash
+```bash
 Copy code
 cd travel-website
 

@@ -1,66 +1,85 @@
 # 🌍 Travel Website  
 
-Welcome to the **Travel Website** project! This is a fully responsive website designed to inspire and help users plan their next adventure. It showcases beautiful destinations, provides travel guides, and integrates essential features for an optimal user experience.
+- This project is simple and beautiful design website
 
 ---
 
-## 🎯 Features  
+## 🛠 Technologies Used
 
-- **Responsive Design:** Works seamlessly across all devices (mobile, tablet, desktop).  
-- **Dynamic Pages:** Includes Home, Destinations, About Us, and Contact Us.  
-- **Interactive UI:** Search functionality, image sliders, and animations.  
-- **User-friendly Navigation:** Easy-to-use navigation bar and footer links.  
-- **Modern Aesthetic:** Clean, elegant, and visually appealing design.
+- **HTML** - Structure of the web page
+- **CSS** - Styling for layout and design
 
 ---
 
-## 🛠️ Technologies Used  
+## 📸 Preview
 
-- **HTML5**: For structuring content.  
-- **CSS3**: For styling and animations (including Flexbox and Grid).  
-- **JavaScript**: For interactivity and dynamic content.  
-- **Frameworks**: (Optional) Include Bootstrap, Tailwind, or others if used.  
+![Travel-Webite](Travel-Website.jpg)
 
 ---
 
-## 🏞️ Preview  
+## 📂 Project Structure
 
-![Travel Website Screenshot](http://127.0.0.1:5500/Travel%20Website/Travel.html)  
-*(Replace with your website's preview image or a demo link.)*  
+```
+
+|-- img
+│   ├── About us
+|   ├── Header
+|   ├── Package Section
+|   ├── Popular Section
+|   ├── Reviews
+│-- Travel.css
+│-- Travel.html
+
+```
 
 ---
 
-## 🚀 How to Run the Project  
+## 🚀 Installation Guide
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/travel-website.git
-
-2. Navigate to the project folder:
-     
+1. Clone the repository: 
 ```bash
-Copy code
-cd travel-website
+   git clone https://github.com/AungPyaeSonOo/Travel-Website.git
+```
+2. Navigate into the project folder:   
+```bash
+   cd Travel-Website
+```
+---
 
-3. Open the index.html file in a web browser.
+## 🍴 How to Fork This Project
 
-# 🌟 Contribution
+1. Click the **Fork** button on the top right of this repository.
+2. Clone the forked repository:
+```bash
+   git clone https://github.com/AungPyaeSonOo/Travel-Website.git
+```
 
-Contributions are welcome!
+3. Create a new branch for your changes:
+```bash
+   git checkout -b your-new-feature
+```
 
-- Fork the repository.
+4. Make your changes and commit them:
+```bash
+   git commit -m "Added your new feature"
+```
 
--Create a new branch:
- bash
- Copy code
- git checkout -b feature-name
+5. Push the changes to your fork:
+```bash
+   git push origin your-new-feature
+```
 
-- Commit your changes:
-  bash
-  Copy code
-  git commit -m "Add feature description"
-- Push to the branch:
-  bash
-  Copy code
-  git push origin feature-name
-- Open a pull request.
+6. Create a **Pull Request**!
+
+---
+
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to reach out:
+- **Email:** aungpyaesonoo002@gmail.com
+- **GitHub:** [AungPyaeSonOo](https://github.com/AungPyaeSonOo)
+- **LinkedIn:** [AungPyaeSonOo](https://www.linkedin.com/in/aung-pyae-son-oo-635761354)
+
+---
+
+⭐ If you like this project, give it a **star** on GitHub!
